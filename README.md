@@ -1,7 +1,7 @@
 ### Hi there, I'm Sam 👩‍💻 ###
 ------------------------------
 
-While my main interests are cybersecurity and computer forensics, I have a fair amount of programming and software development experience through my educational background.
+While my main career interests are cybersecurity and computer forensics, I have a fair amount of programming and software development experience through my educational background. I have SOC experience and plan on pursuing information security as my career goal. Programming has taught me a lot of skills that has aided in my experience in Information Technology.
 
 🎓 Education
 ------------
