@@ -55,3 +55,8 @@ Researcher — Florida State University Department of Computer Science | Oct 202
 ------------------
 - LinkedIn: https://www.linkedin.com/in/samzinn/
 - Email: zinnjsam@gmail.com
+
+
+
+
+My profile picture is courtesy of Picrew’s “Pixel Avatar“!! https://picrew.me/en/image_maker/112842
