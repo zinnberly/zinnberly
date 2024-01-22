@@ -1,4 +1,4 @@
-### Hi there, I'm Sam 👩‍💻
+### Hi there, I'm Sam 👩‍💻 ###
 ------------------------------
 
 While my main interests are cybersecurity and computer forensics, I have a fair amount of programming and software development experience through my educational background.
@@ -35,7 +35,7 @@ SQL
 Git/GitHub,
 SIEMs,
 AWS,
-FTK,
+Forensic Toolkit
 
 💼 Relevant Work Experience
 ------------------
